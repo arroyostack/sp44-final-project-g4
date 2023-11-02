@@ -1,5 +1,3 @@
-# Untitled
-
 # Full-Stack Pet Services and Adoption App
 # Live Demo: <a href="https://sample-service-name-qduh.onrender.com/" target="blank">here</a>
 
